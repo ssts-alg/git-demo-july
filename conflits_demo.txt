@@ -1,1 +1,2 @@
 this is conflits
+2nd line
