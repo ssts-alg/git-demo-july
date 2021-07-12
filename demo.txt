@@ -1,3 +1,7 @@
 this is first line
 this is second line
+<<<<<<< HEAD
 3rd line
+=======
+5th line
+>>>>>>> bcf8b1b (message)
